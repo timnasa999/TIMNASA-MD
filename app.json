@@ -1,9 +1,9 @@
 {
   "name":"TIMNASA-MD",
-  "description":"Best whatsapp bot created by TIMOTHY",
+  "description":"Best whatsapp bot created by 𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/v2c8de.jpeg",
-  "repository":"https://github.com/Halisi12234/TIMNASA1-MD",
+  "logo":"https://files.catbox.moe/f4ft7z.jpg",
+  "repository":"https://github.com/timnasa999/TIMNASA-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -53,14 +53,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TIMNASA-MD",
+      "value":"𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/v2c8de.jpeg",
+      "value":"https://files.catbox.moe/f4ft7z.jpg",
       "required":false
        
      },
@@ -92,7 +92,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "TIMNASATECH"
+    "value": "𝐃𝚰𝐋 𝐊𝚫𝚴𝚯 𝚻𝚳𝐃"
   },
     "NUMERO_OWNER":
   {
